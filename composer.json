@@ -1,0 +1,13 @@
+{
+  "name": "suzuki/guzzle-promise-sample",
+  "require": {
+    "guzzlehttp/guzzle": "^6.2"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Norio Suzuki",
+      "email": "norio.suzuki@gmail.com"
+    }
+  ]
+}
