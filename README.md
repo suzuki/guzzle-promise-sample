@@ -29,6 +29,6 @@ $ node server/server.js
 $ php src/sample01.php
 ```
 
-## LISENCE
+## LICENSE
 
 MIT
