@@ -1,4 +1,4 @@
-# Sample of Guzzle Promise
+# Samples of Guzzle Promise
 
 ## Slide
 
@@ -28,3 +28,7 @@ $ node server/server.js
 ```
 $ php src/sample01.php
 ```
+
+## LISENCE
+
+MIT
